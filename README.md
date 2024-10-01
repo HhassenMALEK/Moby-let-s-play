@@ -2,12 +2,6 @@
 
 Bienvenue sur **Mobylet Play**, un jeu 2D captivant conçu avec Pico-8 et programmé en Lua. 
 
-## Fonctionnalités
-- 🎮 Gameplay immersif avec des mécaniques de jeu intuitives  
-- 🌍 Monde ouvert à explorer avec différents niveaux et défis  
-- 👾 Ennemis variés et mécanismes de combat  
-- 🏆 Système de progression et de récompenses    
-
 ## Technologies Utilisées
 - **Moteur de jeu** : Pico-8  
 - **Langage de programmation** : Lua  
